@@ -11,7 +11,7 @@
 </p>
 
 ## 🚀 **Live Demo**
-[Visit the website here](https://heart-disease-prediction-bksmkk57tszguvmccwvdgr.streamlit.app/)
+[Visit the app here](https://heart-disease-prediction-bksmkk57tszguvmccwvdgr.streamlit.app/)
 
 ---
 
