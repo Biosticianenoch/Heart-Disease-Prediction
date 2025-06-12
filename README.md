@@ -11,7 +11,7 @@
 </p>
 
 ## 🚀 **Live Demo**
-Coming Soon on Streamlit Cloud or Hugging Face Spaces! 🌐
+[Visit the website here](https://heart-disease-prediction-bksmkk57tszguvmccwvdgr.streamlit.app/)
 
 ---
 
