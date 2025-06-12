@@ -137,6 +137,6 @@ MIT License
 ---
 
 <p align="center">
-  <b>Made with ❤️ for health and data science.</b>
+  <b>Made with Enock Bereka for health and data science.</b>
 </p>
 
